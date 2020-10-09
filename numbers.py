@@ -22,7 +22,6 @@ first_input = input('Enter first number: ')
 second_input = input('Enter second number: ')
 
 if (not isnumber(first_input) and not isnumber(second_input)):
-    print('Entou aqui')
     first_input = 0
     second_input = 0
 
